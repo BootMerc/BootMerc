@@ -1,4 +1,4 @@
-# 👋 Hello World! I'm Ziad Mohamed Shaker
+# 👋 Hello I'm Ziad Mohamed Shaker
 
 <div align="center">
   
