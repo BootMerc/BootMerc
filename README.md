@@ -57,7 +57,6 @@ Results-driven **Data Scientist** with expertise in building end-to-end data pip
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BootMerc&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BootMerc&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=BootMerc&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
 
