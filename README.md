@@ -12,7 +12,7 @@
 
 Results-driven **Data Scientist** with expertise in building end-to-end data pipelines, developing machine learning models, and creating interactive dashboards. Currently pursuing a Bachelor's in Computer Science (Software Engineering) at King Salman International University with a 2.9 GPA. Proficient in Python, SQL, Power BI, and Deep Learning frameworks with hands-on experience in digital transformation projects. Passionate about transforming raw data into actionable insights through advanced analytics and AI-driven solutions.
 
-🎓 **Education:** B.Sc. Computer Science - King Salman International University (GPA: 2.9)  
+🎓 **Education:** B.Sc. Computer Science - King Salman International University  
 📍 **Location:** Sharm El-Shiekh, Egypt  
 🔍 **Seeking:** Entry-level Data Scientist or Machine Learning Engineer opportunities
 
@@ -33,6 +33,7 @@ Results-driven **Data Scientist** with expertise in building end-to-end data pip
 
 
 ### Machine Learning & Deep Learning
+<img src="https://img.shields.io/badge/Data%20Engineering-4B0082?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
@@ -44,6 +45,7 @@ Results-driven **Data Scientist** with expertise in building end-to-end data pip
 
 
 ### Tools & Technologies
+<img src="https://img.shields.io/badge/API%20Integration-00B8D9?style=for-the-badge&logo=fastapi&logoColor=white"/>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=internetofthings&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
