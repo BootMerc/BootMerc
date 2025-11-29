@@ -45,7 +45,7 @@ Results-driven **Data Scientist** with expertise in building end-to-end data pip
 
 
 ### Tools & Technologies
-<img src="https://img.shields.io/badge/API%20Integration-00B8D9?style=for-the-badge&logo=fastapi&logoColor=white"/>
+![API Integration](https://img.shields.io/badge/API%20Integration-00B8D9?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=internetofthings&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
@@ -61,6 +61,9 @@ Results-driven **Data Scientist** with expertise in building end-to-end data pip
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=BootMerc&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahinda383&theme=tokyo-night" alt="Contribution Graph"/>
+</p>
 
 </div>
 
