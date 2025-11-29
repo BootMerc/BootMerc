@@ -61,9 +61,6 @@ Results-driven **Data Scientist** with expertise in building end-to-end data pip
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=BootMerc&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahinda383&theme=tokyo-night" alt="Contribution Graph"/>
-</p>
 
 </div>
 
