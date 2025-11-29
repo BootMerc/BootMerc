@@ -33,7 +33,7 @@ Results-driven **Data Scientist** with expertise in building end-to-end data pip
 
 
 ### Machine Learning & Deep Learning
-<img src="https://img.shields.io/badge/Data%20Engineering-4B0082?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+![Data Engineering](https://img.shields.io/badge/Data%20Engineering-4B0082?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
