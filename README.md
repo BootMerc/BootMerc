@@ -1,8 +1,5 @@
 # 👋 Hello I'm Ziad Mohamed Shaker
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0c5be8a4-c055-458e-873c-b9aaef240f8a" alt="Ziad AI Banner">
-</p>
-<div align="center">
+
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ziad-shaker-147a68326/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BootMerc)
