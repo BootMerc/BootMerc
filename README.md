@@ -13,7 +13,7 @@
 Results-driven **Data Scientist** with expertise in building end-to-end data pipelines, developing machine learning models, and creating interactive dashboards. Currently pursuing a Bachelor's in Computer Science (Software Engineering) at King Salman International University. Proficient in Python, SQL, Power BI, and Deep Learning frameworks with hands-on experience in digital transformation projects. Passionate about transforming raw data into actionable insights through advanced analytics and AI-driven solutions.
 
 🎓 **Education:** B.Sc. Computer Science - King Salman International University  
-📍 **Location:** Sharm El-Shiekh, Egypt  
+📍 **Location:** Cairo, Egypt  
 🔍 **Seeking:** Entry-level Data Scientist or Machine Learning Engineer opportunities
 
 ---
