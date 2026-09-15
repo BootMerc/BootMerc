@@ -3,18 +3,18 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ziad-shaker-147a68326/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BootMerc)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)]([YOUR_KAGGLE_LINK](https://www.kaggle.com/artyomalekseyevich))
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/artyomalekseyevich)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ziadshaker56@gmail.com)
 
 </div>
 
 ## 📊 About Me
 
-Results-driven **Data Scientist** with expertise in building end-to-end data pipelines, developing machine learning models, and creating interactive dashboards. Currently pursuing a Bachelor's in Computer Science (Software Engineering) at King Salman International University. Proficient in Python, SQL, Power BI, and Deep Learning frameworks with hands-on experience in digital transformation projects. Passionate about transforming raw data into actionable insights through advanced analytics and AI-driven solutions.
+so i am a computer Science graduate who is skilled in applied machine learning, backend programming, and natural language processing, having real-world experience with the development of end-to-end machine learning pipelines, production APIs, and full-stack applications. Gained experience from internships at UneeQ and DEPI and currently interning as Backend AI Engineer at FlyRank. Personal projects include a hybrid RAG search engine, an NLP plagiarism detection tool, and a live face-anonymizing pipeline. Besides technical skills, I have more than one year of experience in selling, specifically cold calling potential clients from the USA
 
 🎓 **Education:** B.Sc. Computer Science - King Salman International University  
 📍 **Location:** Cairo, Egypt  
-🔍 **Seeking:** Entry-level Data Scientist or Machine Learning Engineer opportunities
+🔍 **Seeking:** senior-level Data Scientist or Machine Learning Engineer opportunities
 
 ---
 
